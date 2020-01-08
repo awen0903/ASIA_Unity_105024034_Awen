@@ -213,8 +213,8 @@ MonoBehaviour:
     y: 0
     width: 431
     height: 947
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 277, y: 72}
+  m_MaxSize: {x: 4002, y: 4022}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -410,9 +410,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 0a5b0000
+      m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: e8a9ffff
+      m_ExpandedIDs: 78f4ffffb8f4ffff62f5ffff6afbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -519,15 +519,15 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: "C:\\Users\\A309\\Desktop\\ASIA_UNITY_105024034_WEN\\ASIA UNITY
-    105024034 \u9EC3\u96C5\u96EF"
+  m_LastProjectPath: C:\Users\A309\Documents\GitHub\ASIA_Unity_105024034_Awen\ASIA
+    UNITY 105024034 AWen
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: c0570000
-    m_LastClickedID: 22464
-    m_ExpandedIDs: 00000000c057000046580000be580000b05a0000de5a00000a5b00004a5b000000ca9a3b
+    m_SelectedIDs: 082d0000
+    m_LastClickedID: 11528
+    m_ExpandedIDs: 00000000082d0000342e0000c42e0000d2310000063200004e320000ac32000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -555,7 +555,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000c057000046580000be580000b05a0000de5a00000a5b00004a5b0000
+    m_ExpandedIDs: 00000000082d0000342e0000c42e0000d2310000063200004e320000ac320000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -582,7 +582,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: 68300000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -761,7 +761,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.32584864, y: -0.655626, z: 0.37612697, w: 0.56811047}
     speed: 2
-    m_Value: {x: 0.32580894, y: -0.6555461, z: 0.37608117, w: 0.56804127}
+    m_Value: {x: -0.32584864, y: 0.655626, z: -0.37612697, w: -0.56811047}
   m_Size:
     m_Target: 58.503784
     speed: 2
